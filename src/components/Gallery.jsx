@@ -7,19 +7,19 @@ import { Close, ZoomIn } from '@mui/icons-material';
 
 const galleryImages = [
   {
-    img: 'https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=600&q=80',
-    title: 'Garden Landscape',
+    img: 'https://scontent.futh1-1.fna.fbcdn.net/v/t39.30808-6/488615636_1250365673319727_7392573780667503772_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx1368x852&ctp=s1368x852&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHTnhWhuL9NCmw69JDsAe6ge4T5a02rfnx7hPlrTat-fCN6e1QUJ6roYozfBJlSyAzViXIghWAihaMVLQDWwoN-&_nc_ohc=xsl7MtNY4AEQ7kNvwGNzx8d&_nc_oc=AdpH6_WLn32Lk2tYVwSBC3sEtEEMg_gyKgpafFFzNsS9NRMtrgu3AtfCG0BUb-n3MT4&_nc_zt=23&_nc_ht=scontent.futh1-1.fna&_nc_gid=FlBL6ad5mgg5rkXHAA7UvA&_nc_ss=7b2a8&oh=00_AQCD-49rSB3LRAkYKNGPqy6joylRlrpQ97rug5nDmcN64Q&oe=6A4DA242',
+    title: 'Landscape',
     cols: 2,
     rows: 2,
   },
   {
-    img: 'https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=600&q=80',
+    img: 'https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=1920&q=80',
     title: 'Flower Garden',
     cols: 1,
     rows: 1,
   },
   {
-    img: 'https://images.unsplash.com/photo-1490750967868-88aa4f44baee?w=600&q=80',
+    img: 'https://static.naewna.com/uploads/news/source/836232.jpg  ',
     title: 'Colorful Flowers',
     cols: 1,
     rows: 1,
@@ -31,19 +31,19 @@ const galleryImages = [
     rows: 1,
   },
   {
-    img: 'https://images.unsplash.com/photo-1534445867742-43195f401b6c?w=600&q=80',
+    img: 'https://mpics.mgronline.com/pics/Images/565000002406204.JPEG',
     title: 'Green Garden',
     cols: 1,
     rows: 1,
   },
   {
-    img: 'https://images.unsplash.com/photo-1470058869961-0c1e3d881399?w=600&q=80',
-    title: 'Tropical Plants',
+    img: 'https://image.bangkokbiznews.com/uploads/images/contents/w1024/2025/11/LvFrOv2divyOZMuE9HDz.webp?x-image-process=style/lg-webp',
+    title: 'Land Plants',
     cols: 2,
     rows: 1,
   },
   {
-    img: 'https://images.unsplash.com/photo-1578302758063-2ef3b2f0eccc?w=600&q=80',
+    img: 'https://image.bangkokbiznews.com/uploads/images/contents/w1024/2025/11/ig7syKRC90elzBkAzsg4.webp?x-image-process=style/lg-webp',
     title: 'Expo Architecture',
     cols: 1,
     rows: 2,
