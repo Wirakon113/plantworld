@@ -49,8 +49,8 @@ const galleryImages = [
     rows: 2,
   },
   {
-    img: 'https://images.unsplash.com/photo-1490077476659-095159692ab5?w=600&q=80',
-    title: 'Night Garden',
+    img: 'https://f.tpkcdn.com/review-source/63219f07-9125-716d-739d-52565adfcb2a.jpg',
+    title: 'picture from theTripPacker',
     cols: 1,
     rows: 1,
   },
